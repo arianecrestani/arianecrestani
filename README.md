@@ -4,7 +4,7 @@
 ![CSS](https://img.shields.io/badge/CSS-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 ![Vue](https://img.shields.io/badge/Vue-Beginner-41B883)
-![React](https://img.shields.io/badge/React-blue-Beginner-41B883)
+![React](https://img.shields.io/badge/React-Beginner-blue)
 
 
 <div align="center">

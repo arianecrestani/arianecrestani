@@ -1,6 +1,6 @@
 ## Hi there, I am Ari  👋
 
-I have to work to build my projects as an intention to practice and improve my knowledge
+I am working on building my projects with an intention to practice and improve my knowledge
 
 Some of projects are in portfolio https://arianecrestani.github.io/Portfolio-Ariane/ 
 

@@ -2,6 +2,8 @@
 
 I am working on building my projects with an intention to practice and improve my knowledge
 
+Student by Redi school in Berlin doing React 
+
 Some of projects are in portfolio https://arianecrestani.github.io/Portfolio-Ariane/ 
 
 

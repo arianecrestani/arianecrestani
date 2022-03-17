@@ -1,5 +1,9 @@
 ## Hi there, I am Ari  👋
 
+I have to work to build my projects as an intention to practice and improve my knowledge
+
+
+
 ![HTML](https://img.shields.io/badge/HTML-orange)
 ![CSS](https://img.shields.io/badge/CSS-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)

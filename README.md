@@ -9,7 +9,6 @@ Some of projects are in portfolio https://arianecrestani.github.io/Portfolio-Ari
 ![HTML](https://img.shields.io/badge/HTML-orange)
 ![CSS](https://img.shields.io/badge/CSS-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![Vue](https://img.shields.io/badge/Vue-Beginner-41B883)
 ![React](https://img.shields.io/badge/React-Beginner-blue)
 
 

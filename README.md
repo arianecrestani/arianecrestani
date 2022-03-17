@@ -2,6 +2,8 @@
 
 I have to work to build my projects as an intention to practice and improve my knowledge
 
+Some of projects are in portfolio https://arianecrestani.github.io/Portfolio-Ariane/ 
+
 
 
 ![HTML](https://img.shields.io/badge/HTML-orange)

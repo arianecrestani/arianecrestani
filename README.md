@@ -2,7 +2,6 @@
 
 I am working on building my projects with an intention to practice and improve my knowledge
 
-Portfolio https://arianecrestani.netlify.app/
 
 
 ![HTML](https://img.shields.io/badge/HTML-orange)

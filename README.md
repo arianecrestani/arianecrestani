@@ -1,6 +1,6 @@
 ## Hi there, I am Ari  👋
 
-I am working on building my projects with an intention to practice and improve my knowledge
+I am doing Bootcamp at Code Academy in Berlin (FRONT END DEVELOPER)
 
 
 

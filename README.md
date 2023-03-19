@@ -1,7 +1,8 @@
 ## Hi there, I am Ari  👋
 
-I am doing Bootcamp at Code Academy in Berlin (FRONT END DEVELOPER)
+I am doing Bootcamp at Code Academy in Berlin.
 
+Currently learning Firebase, React.
 
 
 ![HTML](https://img.shields.io/badge/HTML-orange)

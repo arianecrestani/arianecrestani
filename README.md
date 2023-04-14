@@ -2,7 +2,7 @@
 
 I am doing Bootcamp at Code Academy in Berlin.
 
-Currently learning Firebase, React.
+Currently learning Firebase, Mango.
 
 
 ![HTML](https://img.shields.io/badge/HTML-orange)

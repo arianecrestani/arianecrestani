@@ -1,7 +1,7 @@
 ## Hi there, I am Ari  👋
 
 # 💫 About Me:
-I am currently learning Backend-side Mongo, Express
+I am currently learning Backend-side Mongo, Express, Node, 
 <br><br>Background as a front-end developer.<br><br>Javascript, React,  Tailwind, Material UI, Chakra UI, Vue.
 
 

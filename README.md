@@ -1,9 +1,5 @@
 ## Hi there, I am Ari  👋
 
-# 💫 About Me:
-I am currently learning Backend-side Mongo, Express, Node, 
-<br><br>Background as a front-end developer.<br><br>Javascript, React,  Tailwind, Material UI, Chakra UI, Vue.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arianecrestani) 

@@ -1,6 +1,6 @@
 ## Hi there, I am Ari  👋
 
- Mango - Javascript - Firebase - Html - Css - Express - Node - Typescript
+ Mongo - Javascript - Firebase - Html - Css - Express - Node - Typescript
 
 # 📊 GitHub Stats:
 

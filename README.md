@@ -1,6 +1,6 @@
 ## Hi there, I am Ari  👋
 
- Mongo - Javascript - Firebase - Html - Css - Express - Node - Typescript
+ 
 
 # 📊 GitHub Stats:
 

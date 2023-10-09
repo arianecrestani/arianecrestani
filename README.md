@@ -17,5 +17,4 @@
 </div>
   
 
-  ![Snake animation](https://github.com/arianecrestani/arianecrestani/blob/output/github-contribution-grid-snake.svg)
 

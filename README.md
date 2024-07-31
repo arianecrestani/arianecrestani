@@ -1,5 +1,9 @@
 ## Hi there, I am Ari  👋
 
+TECH STACK = JAVASCRIPT, TYPESCRIPT, REACT.
+
+LEARNING = SWIFT 
+
  
 
 # 📊 GitHub Stats:

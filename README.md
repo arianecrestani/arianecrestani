@@ -4,7 +4,6 @@ Github active since 2021.
 
 TECH STACK = JAVASCRIPT, TYPESCRIPT, REACT.
 
-LEARNING = SWIFT 
 
  
 

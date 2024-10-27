@@ -1,7 +1,5 @@
 ## Hi there, I am Ari  👋
 
-Github active since 2021.
-
 TECH STACK = JAVASCRIPT, TYPESCRIPT, REACT.
 
 
